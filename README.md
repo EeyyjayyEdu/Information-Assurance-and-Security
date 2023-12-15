@@ -48,32 +48,48 @@ by **Group 2 - BSCS 3B**
    - sudo apt update
    - sudo apt upgrade
 
- ![1.png](https://github.com/EeyyjayyEdu/Information-Assurance-and-Security/blob/main/Relles/1.png)
+![1.png](https://github.com/EeyyjayyEdu/Information-Assurance-and-Security/blob/main/Relles/1.png)
  
- ![2.png](https://github.com/EeyyjayyEdu/Information-Assurance-and-Security/blob/main/Relles/2.png)
+![2.png](https://github.com/EeyyjayyEdu/Information-Assurance-and-Security/blob/main/Relles/2.png)
 
- ![3.png](https://github.com/EeyyjayyEdu/Information-Assurance-and-Security/blob/main/Relles/3.png)
+![3.png](https://github.com/EeyyjayyEdu/Information-Assurance-and-Security/blob/main/Relles/3.png)
 
 ### 3. Install LAMP Stack. LAMP stands for Linux, Apache, MySQL, and PHP. 
  - This stack is typically installed together in order to enable a server to host dynamic websites and web apps written in PHP.
 Here are the tutorials on how to install LAMP stack [[1]](https://ostechnix.com/install-apache-mysql-php-lamp-stack-on-ubuntu-18-04-lts/)[[2]](https://linuxhint.com/install-phpmyadmin-raspberry-pi/)
  - To install the stack, type the following commands on our command prompt connected to Raspberry Pia via SSH.
-   + **_sudo apt install apache2_**
-     ![4.png](https://github.com/EeyyjayyEdu/Information-Assurance-and-Security/blob/main/Relles/4.png)
-   + **_sudo apt install mariadb-server_**
-     ![5.png](https://github.com/EeyyjayyEdu/Information-Assurance-and-Security/blob/main/Relles/5.png)
-   + **_sudo mysql_secure_installation_**
-     ![6.png](https://github.com/EeyyjayyEdu/Information-Assurance-and-Security/blob/main/Relles/6.png)
-   + **_sudo apt install php libapache2-mod-php php-mysql_**
-     ![7,png](https://github.com/EeyyjayyEdu/Information-Assurance-and-Security/blob/main/Relles/7.png)
-   + **_sudo apt-get install php_**
-     ![8.png](https://github.com/EeyyjayyEdu/Information-Assurance-and-Security/blob/main/Relles/8.png)
-   + sudo apt install phpmyadmin
-     ![9.png](https://github.com/EeyyjayyEdu/Information-Assurance-and-Security/blob/main/Relles/9.png)
-   + apache2 then ok
-     ![10.png](https://github.com/EeyyjayyEdu/Information-Assurance-and-Security/blob/main/Relles/10.png)
-   + click no
-     ![11.png](https://github.com/EeyyjayyEdu/Information-Assurance-and-Security/blob/main/Relles/11.png)
+   
+> **_sudo apt install apache2_**
+   
+   ![4.png](https://github.com/EeyyjayyEdu/Information-Assurance-and-Security/blob/main/Relles/4.png)
+   
+> **_sudo apt install mariadb-server_**
+   
+   ![5.png](https://github.com/EeyyjayyEdu/Information-Assurance-and-Security/blob/main/Relles/5.png)
+   
+> **_sudo mysql_secure_installation_**
+   
+   ![6.png](https://github.com/EeyyjayyEdu/Information-Assurance-and-Security/blob/main/Relles/6.png)
+   
+> **_sudo apt install php libapache2-mod-php php-mysql_**
+
+   ![7,png](https://github.com/EeyyjayyEdu/Information-Assurance-and-Security/blob/main/Relles/7.png)
+   
+> **_sudo apt-get install php_***
+   
+   ![8.png](https://github.com/EeyyjayyEdu/Information-Assurance-and-Security/blob/main/Relles/8.png)
+   
+> **sudo apt install phpmyadmin**
+   
+   ![9.png](https://github.com/EeyyjayyEdu/Information-Assurance-and-Security/blob/main/Relles/9.png)
+   
+> **apache2 then ok**
+   
+   ![10.png](https://github.com/EeyyjayyEdu/Information-Assurance-and-Security/blob/main/Relles/10.png)
+   
+> **click no**
+   
+   ![11.png](https://github.com/EeyyjayyEdu/Information-Assurance-and-Security/blob/main/Relles/11.png)
 
 ### 4. Connect to Raspberry Pi via VNC
  - Install RealVNC® Viewer to the device you want to control from via this [link](https://www.realvnc.com/en/connect/download/viewer/)
