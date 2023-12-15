@@ -72,9 +72,12 @@ Here are the tutorials on how to install LAMP stack [[1]](https://ostechnix.com/
      ![9.png](https://github.com/EeyyjayyEdu/Information-Assurance-and-Security/blob/main/Relles/9.png)
    + apache2 then ok
      ![10.png](https://github.com/EeyyjayyEdu/Information-Assurance-and-Security/blob/main/Relles/10.png)
+   + click no
+     ![11.png](https://github.com/EeyyjayyEdu/Information-Assurance-and-Security/blob/main/Relles/11.png)
 
 ### 4. Connect to Raspberry Pi via VNC
  - Install RealVNC® Viewer to the device you want to control from via this [link](https://www.realvnc.com/en/connect/download/viewer/)
  
-- On the device you will use to take control, run RealVNC Viewer and enter the private IP address in the search bar. If the screen of the Raspberry Pi appeared on RealVNC, it means that it already established connection and control on the Raspberry Pi. 
-   ![11.png](https://github.com/EeyyjayyEdu/Information-Assurance-and-Security/blob/main/Relles/11.png)
+- On the device you will use to take control, run RealVNC Viewer and enter the private IP address in the search bar. If the screen of the Raspberry Pi appeared on RealVNC, it means that it already established connection and control on the Raspberry Pi.
+   + click no
+   ![12.png](https://github.com/EeyyjayyEdu/Information-Assurance-and-Security/blob/main/Relles/12.png)
