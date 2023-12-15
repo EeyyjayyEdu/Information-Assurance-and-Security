@@ -7,4 +7,6 @@ by **Group 2 - BSCS 3B**
 
 # STEP BY STEP INSTALLATION PROCESS
 
-## 1. 
+### 1. Install Headless Raspbian OS into Raspberry Pi
+
+   -
